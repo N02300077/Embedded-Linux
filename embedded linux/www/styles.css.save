@@ -1,0 +1,22 @@
+#table_sensor {
+	border-collapse: collapse;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	width: 100%;
+}
+#sensor td, #sensor th {
+	border: 1px solid #9821BF;
+	font-size: 1em;
+	padding: 3px 7px 2px;
+}
+#sensor th {
+	background-color: #007143;
+	color: #FFFFFF;
+	font-size: 1.1em;
+	padding-bottom: 4px;
+	padding-top: 5px;
+	text-align: left;
+}
+#sensor tr.alt td {
+	background-color #76FFE4;
+	color: #000000;
+}
