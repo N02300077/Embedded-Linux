@@ -1,0 +1,4 @@
+Raspberry Pi / Arduino Temperature Sensor Interface AUTHOR
+==========================================================
+
+Nick Falco <n02300077@hawkmail.newpaltz.edu, ncfalco@gmail.com>
